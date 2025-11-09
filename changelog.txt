@@ -1,0 +1,3 @@
+Initial version of NGO Fund Tracker .
+- Added Solidity contract.
+- Updated documentation.
