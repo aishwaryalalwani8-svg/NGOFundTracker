@@ -46,3 +46,7 @@ The project aims to eliminate fund misuse by allowing public visibility of donat
 
 ## 📜 License
 MIT License © 2025 NGO Fund Tracker Project
+
+## Update
+Improved project overview for NGO Fund Tracker.
+
