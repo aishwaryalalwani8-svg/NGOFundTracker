@@ -49,4 +49,5 @@ MIT License © 2025 NGO Fund Tracker Project
 
 ## Update
 Improved project overview for NGO Fund Tracker.
-
+commit message: docs: add license section and project overview
+Description: Added MIT License info and project overview for better documentation clarity.
